@@ -1,0 +1,5 @@
+Modulos:
+	Crear nota
+	Ver notas
+	Vista individual de nota
+	

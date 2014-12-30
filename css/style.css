@@ -1,0 +1,65 @@
+.content{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+/* Estilos generales */
+
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+
+header{
+	background:#D65210;
+	border-bottom: 1px solid #c94c0d;
+	-moz-box-shadow: rgba(0,0,0,0.3) 0 0 3px;
+	-webkit-box-shadow: rgba(0,0,0,0.3) 0 0 3px;
+	/* box-shadow: rgba(0,0,0,0.3) 0 0 3px; */
+}
+nav.top{
+	width: 65%;
+	display: inline-block;
+	vertical-align: top;
+}
+nav.top ul li{
+	display: inline-block;
+	vertical-align: top;
+	width: 31%;
+	margin-top: 20px;
+	text-align: center;
+}
+nav.top ul li a{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+}
+header figure{
+	width: 25%;
+	display: inline-block;
+	vertical-align: top;
+
+}
+/* Styles for list of notes. */
+nav.left-side{
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+}
+section.view-note{
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+	margin-left:8%;
+}
+nav.left-side ul li{
+	width: 90%;
+	background: #ffff9b;
+	padding: 5px 10px;
+	margin: 5px;
+}
+
